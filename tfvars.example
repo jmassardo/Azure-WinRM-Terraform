@@ -1,0 +1,6 @@
+tag_customer = "cust"
+tag_project = "proj"
+tag_dept = "sales"
+tag_contact = "me@somewhere.com"
+tag_application = "Hab on Windows"
+source_address_prefix = "1.2.3.4"
